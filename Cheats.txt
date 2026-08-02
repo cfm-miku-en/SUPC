@@ -63,7 +63,6 @@
   "KameState": "Bark",
   "KameColor": "Bark",
   "Gemstone. Version: 1.1.8": "Gemstone",
-  "Niko345 RotationControl 1.0.0": "Niko345 RotationControl",
   "BananaOS": "Banana OS",
   "BANANAOS": "Banana OS",
   "didnotTutorial": "didnotTutorial (Maybe cheat?)",
