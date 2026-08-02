@@ -95,5 +95,6 @@
   "Gun_CurrentLineSize": "Gun Mod",
   "Gun_CurrentSphereSize": "Gun Mod",
   "FYS Epic Face Tracking Shit Mod": "FYS Face Tracking",
-  "shirtversion": "GShirts"
+  "shirtversion": "GShirts",
+  "Niko345 RotationControl 1.0.0": "Niko345 RotationControl"
 }
