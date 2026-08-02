@@ -11,6 +11,5 @@
   "stop checking my mods": "Anti-Checker Taunt",
   "skidded menu": "Skidded Menu",
   "starlight mod menu": "Starlight Mod Menu",
-  "gemstone. version": "Gemstone",
-  "niko345 rotationcontrol": "Niko345 RotationControl"
+  "gemstone. version": "Gemstone"
 }
