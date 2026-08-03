@@ -83,6 +83,9 @@
   "3link.mode": "3Link",
   "3link.frequency": "3Link",
   "3link.blinkTime": "3Link",
+  "actor_cfg_ver": "Actor Config (Maybe a cheat?)",
+  "CurrentSong": "Song Display (Maybe a cheat?)",
+  "SongArtist": "Song Display (Maybe a cheat?)",
   "Industry's Player Logger": "Industry's Player Logger",
   "Spoofer By Pulse": "Pulse Spoofer",
   "Lexi's WalkSimulator": "Walk Simulator",
@@ -138,7 +141,7 @@
   "Haze_GUNP": "Haze",
   "Haze_GUNT": "Haze",
   "Haze_GUNLKA": "Haze",
-  "Grate": "Grate (Maybe Illegal? May be legal version.)",
+  "Grate": "Grate (cheat variants exist)",
   "Starlight Mod Menu": "Starlight Mod Menu",
   "arrakis v2.1.0": "Arrakis",
   "skidded67ok": "Skidded Menu",
@@ -159,5 +162,11 @@
   ":Slapsy": "Slapsy",
   "overdosed": "Overdosed",
   "MP25": "MP25 (Maybe cheat?)",
-  "size": "Size Spoofer (Maybe cheat?)"
+  "size": "Size Spoofer (Maybe cheat?)",
+  "AnalOrgyWater": "Weird Spoofer (AnalOrgyWater)",
+  "RectalCavity": "Weird Spoofer (RectalCavity)",
+  "QuantumMenuOpen": "Quantum Menu",
+  "Custom Property Setter": "Custom Property Spoofer",
+  "Atlas": "Atlas",
+  "look_at_u": "Unknown Spoofer (look_at_u) (Maybe cheat?)"
 }
