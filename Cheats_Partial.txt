@@ -7,9 +7,10 @@
   "sonytracker": "Sony Tracker (player tracker)",
   "chqser.lol": "Chqser",
   "spankyvrc": "SpankyVRC",
-  "anarchy anarchy anarchy": "Anarchy (What is Anarchy? But this is a cheat.)",
+  "anarchy anarchy anarchy": "Anarchy Spam Menu",
   "stop checking my mods": "Anti-Checker Taunt",
   "skidded menu": "Skidded Menu",
   "starlight mod menu": "Starlight Mod Menu",
-  "gemstone. version": "Gemstone"
+  "gemstone. version": "Gemstone",
+  "quantummenu": "Quantum Menu"
 }
